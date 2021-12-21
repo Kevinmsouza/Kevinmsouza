@@ -31,7 +31,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-007ACC?style=flat-square&logo=typeorm&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 
 #### Tools:
 
