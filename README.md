@@ -8,12 +8,12 @@
 
 ## About me :speech_balloon:
 
-- 👋 Hi! My name is Kevin and i'm 21 yo.
+- 👋 Hi! My name is Kevin.
 - 🎓 I was trained by [Driven Education](https://www.driven.com.br/) as Fullstack web developer.
 - 🥈 My biggest achievement is that i'm one of few people to be five times medalist of the Brazilian Olympics of Math of the Publics Schools.
 - 🎉 Fun Fact: Currently i'm really into spicy food 🌶️🔥.
 
-## Technologies that i work with 💻
+## Technologies that i have worked with 💻
 
 #### Front-end:
 
@@ -31,6 +31,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-007ACC?style=flat-square&logo=typeorm&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 #### Tools:
 
@@ -43,10 +44,11 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
 ![husky](https://img.shields.io/badge/husky-b0b0d5?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 
 ### Currently studying 📚:
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ## Stats :rocket:
 
